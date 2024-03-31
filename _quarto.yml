@@ -5,14 +5,26 @@ project:
 website:
   title: "S. Bassirou Diop"
   description: "This is S. Bassirou Diop's personal Blog."
+  site-url: https://diopbachir.github.io/bassirou-blog/
+  cookie-consent: true
   navbar:
     right:
       - blog.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/diopBachir
       - icon: twitter
         href: https://twitter.com
       - archive.qmd
+      - icon: rss
+        href: blog.xml
+      - text: Ressources
+        menu: 
+          - text: Google Scholar
+            href: https://scholar.google.com/
+          - text: R Weekly
+            href: https://rweekly.org/
+          - text: R Bloggers
+            href: https://www.r-bloggers.com/   
 format:
   html:
     theme: cosmo
