@@ -6,7 +6,7 @@ website:
   title: "S. Bassirou Diop"
   description: "This is S. Bassirou Diop's personal Blog."
   site-url: https://diopbachir.github.io/bassirou-blog/
-  cookie-consent: true
+  cookie-consent: false
   navbar:
     right:
       - blog.qmd
