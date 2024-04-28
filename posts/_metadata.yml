@@ -1,6 +1,9 @@
-# options specified here will apply to all posts in this folder
-
 # Options specified here will apply to all posts in this folder
+
+# Include footer at the end of each post
+format:
+  html:
+    include-after-body: ../footer.html
 
 # freeze computational output
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)

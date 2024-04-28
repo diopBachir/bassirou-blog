@@ -1,18 +1,33 @@
 ---
-title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+page-layout: full
 ---
 
-About this blog
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-1}
+:::
+
+::: {.g-col-12 .g-col-md-5}
+#
+![](img/maison_de_la_nature.jpg){width="85%"}
+:::
+
+::: {.g-col-12 .g-col-md-5}
+
+::: {class=welcome_head}
+## Hi, I'm S. Bassirou DIOP
+:::
+
+I am a PhD student in Geography/Ecosystems and Environment/Hydrology, with a passion for Data Science, Geographic Information Systems (GIS), programming languages (especially R and Python), statistics, and hydrology. I hold a Master's degree in Geography (Specialization: Ecosystems and Environment; Mention: Hydrology). Subsequently, I joined the [IRD/AFD CECC project](http://www.projet-cecc.org/) to pursue a PhD thesis in alternation between France (Espace-Dev (Univ. Montpellier, IRD), Montpellier, France) and Senegal (Laboratoire Leïdi “Dynamique des territoires et développement”, Univ. Gaston Berger), focusing on climate change and hydrological and statistical modeling of extremes events.
+
+Feel free to contact me via [mail](mailto:09.bachir.diop.10@gmail.com) and subscribe to my email newsletter.
+
+
+<iframe src="https://embeds.beehiiv.com/6ea85d8c-8a94-42b4-afa0-9fbf75b5ccb0?slim=true" data-test-id="beehiiv-embed" height="45" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px; width: 90%;"></iframe>
+
+:::
+
+::: {.g-col-12 .g-col-md-1}
+:::
+
+:::

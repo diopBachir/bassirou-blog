@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://diopbachir.github.io/bassirou-blog/index.html</loc>
-    <lastmod>2024-03-31T19:40:26.218Z</lastmod>
+    <lastmod>2024-04-28T21:07:50.890Z</lastmod>
   </url>
   <url>
     <loc>https://diopbachir.github.io/bassirou-blog/ggplot-series.html</loc>
@@ -10,6 +10,14 @@
   </url>
   <url>
     <loc>https://diopbachir.github.io/bassirou-blog/blog.html</loc>
-    <lastmod>2024-03-31T19:40:23.474Z</lastmod>
+    <lastmod>2024-03-31T22:45:45.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://diopbachir.github.io/bassirou-blog/posts/post-with-code/index.html</loc>
+    <lastmod>2024-03-30T23:31:28.815Z</lastmod>
+  </url>
+  <url>
+    <loc>https://diopbachir.github.io/bassirou-blog/archive.html</loc>
+    <lastmod>2024-03-31T00:37:15.633Z</lastmod>
   </url>
 </urlset>

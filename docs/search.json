@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "",
     "section": "",
-    "text": "About this blog"
+    "text": "I am a PhD student in Geography/Ecosystems and Environment/Hydrology, with a passion for Data Science, Geographic Information Systems (GIS), programming languages (especially R and Python), statistics, and hydrology. I hold a Master’s degree in Geography (Specialization: Ecosystems and Environment; Mention: Hydrology). Subsequently, I joined the IRD/AFD CECC project to pursue a PhD thesis in alternation between France (Espace-Dev (Univ. Montpellier, IRD), Montpellier, France) and Senegal (Laboratoire Leïdi “Dynamique des territoires et développement”, Univ. Gaston Berger), focusing on climate change and hydrological and statistical modeling of extremes events.\nFeel free to contact me via mail and subscribe to my email newsletter."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -68,5 +68,12 @@
     "title": "This is a dummy blog posts",
     "section": "",
     "text": "ggplot(data = gapminder::gapminder, mapping = aes(x = lifeExp, fill = continent)) +\n  stat_density(position = \"identity\", alpha = 0.5)\n\n\n\n\nBla bla bla. This is a caption in the margin. Super cool isn’t it?"
+  },
+  {
+    "objectID": "index.html#hi-im-s.-bassirou-diop",
+    "href": "index.html#hi-im-s.-bassirou-diop",
+    "title": "S. Bassirou Diop",
+    "section": "",
+    "text": "I am a PhD student in Geography/Ecosystems and Environment/Hydrology, with a passion for Data Science, Geographic Information Systems (GIS), programming languages (especially R and Python), statistics, and hydrology. I hold a Master’s degree in Geography (Specialization: Ecosystems and Environment; Mention: Hydrology). Subsequently, I joined the IRD/AFD CECC project to pursue a PhD thesis in alternation between France (Espace-Dev (Univ. Montpellier, IRD), Montpellier, France) and Senegal (Laboratoire Leïdi “Dynamique des territoires et développement”, Univ. Gaston Berger), focusing on climate change and hydrological and statistical modeling of extremes events.\nFeel free to contact me via mail and subscribe to my email newsletter."
   }
 ]

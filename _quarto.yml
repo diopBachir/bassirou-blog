@@ -12,8 +12,8 @@ website:
       - blog.qmd
       - icon: github
         href: https://github.com/diopBachir
-      - icon: twitter
-        href: https://twitter.com
+      # - icon: twitter-x
+      #   href: https://x.com/dpBachir
       - archive.qmd
       - icon: rss
         href: blog.xml
@@ -27,8 +27,9 @@ website:
             href: https://www.r-bloggers.com/   
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - cosmo
+      - theme.scss
 
 editor: visual
 
